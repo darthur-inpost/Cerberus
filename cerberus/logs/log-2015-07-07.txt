@@ -1,0 +1,28 @@
+ERROR - 2015-07-07 11:24:48 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-07 11:24:48 --> No client data found to process.
+ERROR - 2015-07-07 12:41:02 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-07 12:41:02 --> No client data found to process.
+ERROR - 2015-07-07 12:57:03 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-07 12:57:10 --> Sheet name should be longer than zero characters.
+DEBUG - 2015-07-07 12:57:11 --> Found some client data to process.
+ERROR - 2015-07-07 12:57:48 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-07 12:57:49 --> Sheet name should be longer than zero characters.
+DEBUG - 2015-07-07 12:57:50 --> Found some client data to process.
+ERROR - 2015-07-07 12:59:10 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-07 12:59:11 --> Sheet name should be longer than zero characters.
+DEBUG - 2015-07-07 12:59:12 --> Found some client data to process.
+ERROR - 2015-07-07 13:56:12 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-07 13:56:14 --> Sheet name should be longer than zero characters.
+DEBUG - 2015-07-07 13:56:16 --> Found some client data to process.
+ERROR - 2015-07-07 14:04:42 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-07 14:04:43 --> Sheet name should be longer than zero characters.
+DEBUG - 2015-07-07 14:04:45 --> Found some client data to process.
+ERROR - 2015-07-07 14:24:29 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-07 14:24:30 --> Sheet name should be longer than zero characters.
+DEBUG - 2015-07-07 14:24:31 --> Found some client data to process.
+ERROR - 2015-07-07 14:24:43 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-07 14:24:44 --> Sheet name should be longer than zero characters.
+DEBUG - 2015-07-07 14:24:53 --> Found some client data to process.
+ERROR - 2015-07-07 14:42:46 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-07 14:42:50 --> Found some client data to process.
+ERROR - 2015-07-07 16:43:12 --> Failed to read config data.

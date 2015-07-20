@@ -1,0 +1,3 @@
+ERROR - 2015-06-16 11:20:07 --> The lower weight is setup incorrectly.
+ERROR - 2015-06-16 11:37:09 --> no size found for the parameter 1.02
+ERROR - 2015-06-16 12:14:07 --> no SIZE found for the parameter 1.02

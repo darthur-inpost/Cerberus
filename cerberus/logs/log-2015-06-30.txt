@@ -1,0 +1,7 @@
+ERROR - 2015-06-30 12:19:07 --> Client data does not contain enough entries
+ERROR - 2015-06-30 12:22:08 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+ERROR - 2015-06-30 16:13:01 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+ERROR - 2015-06-30 16:17:10 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+ERROR - 2015-06-30 16:23:41 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+ERROR - 2015-06-30 16:24:25 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+ERROR - 2015-06-30 16:28:07 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries

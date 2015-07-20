@@ -1,0 +1,9 @@
+ERROR - 2015-07-10 14:21:35 --> The postcode is not set
+ERROR - 2015-07-10 14:21:35 --> The postcode is not set
+ERROR - 2015-07-10 16:21:51 --> Failed to find any time information about CDE39410
+ERROR - 2015-07-10 16:22:31 --> Failed to find any time information about CDE39410
+ERROR - 2015-07-10 16:23:54 --> Failed to find any time information about CDE39413
+ERROR - 2015-07-10 16:58:14 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-10 16:58:14 --> No client data found to process.
+ERROR - 2015-07-10 17:05:41 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-10 17:05:41 --> No client data found to process.

@@ -1,0 +1,22 @@
+ERROR - 2015-07-02 16:12:31 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-02 16:12:31 --> No client data found to process.
+ERROR - 2015-07-02 16:15:02 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-02 16:15:02 --> No client data found to process.
+ERROR - 2015-07-02 16:17:39 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-02 16:17:39 --> Found some client data to process.
+ERROR - 2015-07-02 16:59:16 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-02 16:59:16 --> Found some client data to process.
+ERROR - 2015-07-02 17:00:14 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-02 17:00:14 --> No client data found to process.
+ERROR - 2015-07-02 17:05:37 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-02 17:05:37 --> No client data found to process.
+ERROR - 2015-07-02 17:06:22 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-02 17:06:22 --> Found some client data to process.
+ERROR - 2015-07-02 17:08:39 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-02 17:08:39 --> Found some client data to process.
+ERROR - 2015-07-02 17:09:59 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-02 17:09:59 --> Found some client data to process.
+ERROR - 2015-07-02 17:12:15 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-02 17:12:15 --> Found some client data to process.
+ERROR - 2015-07-02 17:12:34 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-02 17:12:34 --> Found some client data to process.

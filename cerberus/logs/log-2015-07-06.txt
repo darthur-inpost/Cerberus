@@ -1,0 +1,22 @@
+ERROR - 2015-07-06 12:36:16 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-06 12:36:23 --> Sheet name should be longer than zero characters.
+DEBUG - 2015-07-06 12:36:24 --> Found some client data to process.
+ERROR - 2015-07-06 12:38:29 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-06 12:38:30 --> Sheet name should be longer than zero characters.
+ERROR - 2015-07-06 12:40:45 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-06 12:40:47 --> Sheet name should be longer than zero characters.
+ERROR - 2015-07-06 12:41:37 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-06 12:41:38 --> Sheet name should be longer than zero characters.
+ERROR - 2015-07-06 12:42:30 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-06 12:42:32 --> Sheet name should be longer than zero characters.
+ERROR - 2015-07-06 12:43:41 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-06 12:43:43 --> Sheet name should be longer than zero characters.
+DEBUG - 2015-07-06 12:43:43 --> Found some client data to process.
+ERROR - 2015-07-06 12:45:10 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-06 12:45:11 --> Sheet name should be longer than zero characters.
+DEBUG - 2015-07-06 12:45:11 --> Found some client data to process.
+ERROR - 2015-07-06 12:47:35 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-06 12:47:36 --> Sheet name should be longer than zero characters.
+DEBUG - 2015-07-06 12:47:37 --> Found some client data to process.
+ERROR - 2015-07-06 16:12:06 --> Failed to upload file test_email.php
+ERROR - 2015-07-06 16:12:40 --> Failed to upload file test_email.php

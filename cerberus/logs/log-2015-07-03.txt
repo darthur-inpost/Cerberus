@@ -1,0 +1,122 @@
+ERROR - 2015-07-03 10:03:21 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 10:03:21 --> Found some client data to process.
+ERROR - 2015-07-03 10:04:04 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 10:04:04 --> Found some client data to process.
+ERROR - 2015-07-03 10:05:21 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 10:05:21 --> Found some client data to process.
+ERROR - 2015-07-03 10:06:05 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 10:06:05 --> Found some client data to process.
+ERROR - 2015-07-03 10:06:33 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 10:06:33 --> Found some client data to process.
+ERROR - 2015-07-03 10:06:44 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 10:06:44 --> Found some client data to process.
+ERROR - 2015-07-03 10:18:35 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 10:18:35 --> Found some client data to process.
+ERROR - 2015-07-03 10:55:40 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+ERROR - 2015-07-03 10:57:24 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+ERROR - 2015-07-03 10:57:40 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+ERROR - 2015-07-03 10:58:01 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+ERROR - 2015-07-03 11:01:38 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 11:01:38 --> No client data found to process.
+ERROR - 2015-07-03 11:25:54 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+ERROR - 2015-07-03 11:26:40 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+ERROR - 2015-07-03 11:26:54 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 11:26:54 --> Found some client data to process.
+ERROR - 2015-07-03 11:28:15 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 11:28:15 --> Found some client data to process.
+ERROR - 2015-07-03 11:28:56 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 11:28:56 --> Found some client data to process.
+ERROR - 2015-07-03 11:29:36 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 11:29:36 --> Found some client data to process.
+ERROR - 2015-07-03 11:30:03 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 11:30:03 --> Found some client data to process.
+ERROR - 2015-07-03 11:32:19 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 11:32:19 --> Found some client data to process.
+ERROR - 2015-07-03 11:32:35 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 11:32:35 --> Found some client data to process.
+ERROR - 2015-07-03 11:35:59 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 11:35:59 --> Found some client data to process.
+ERROR - 2015-07-03 11:42:07 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 11:42:07 --> Found some client data to process.
+ERROR - 2015-07-03 11:54:58 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+ERROR - 2015-07-03 11:58:01 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+ERROR - 2015-07-03 12:31:17 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 12:31:17 --> No client data found to process.
+ERROR - 2015-07-03 12:36:21 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 12:36:21 --> No client data found to process.
+ERROR - 2015-07-03 12:36:55 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+ERROR - 2015-07-03 12:37:06 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+ERROR - 2015-07-03 12:39:55 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 12:39:55 --> Found some client data to process.
+ERROR - 2015-07-03 12:40:06 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 12:40:06 --> Found some client data to process.
+ERROR - 2015-07-03 12:41:45 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 12:41:45 --> Found some client data to process.
+ERROR - 2015-07-03 12:43:38 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 12:43:38 --> Found some client data to process.
+ERROR - 2015-07-03 12:43:53 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 12:43:53 --> Found some client data to process.
+ERROR - 2015-07-03 12:45:12 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 12:45:12 --> Found some client data to process.
+ERROR - 2015-07-03 12:50:21 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 12:50:22 --> Found some client data to process.
+ERROR - 2015-07-03 13:14:32 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+ERROR - 2015-07-03 13:20:38 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 13:20:43 --> Found some client data to process.
+ERROR - 2015-07-03 14:31:00 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 14:31:00 --> No client data found to process.
+ERROR - 2015-07-03 14:32:43 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 14:32:44 --> Found some client data to process.
+ERROR - 2015-07-03 14:54:03 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+ERROR - 2015-07-03 15:35:31 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 15:35:31 --> No client data found to process.
+ERROR - 2015-07-03 15:36:50 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 15:36:52 --> Found some client data to process.
+ERROR - 2015-07-03 15:45:29 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 15:45:30 --> Found some client data to process.
+ERROR - 2015-07-03 15:49:35 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 15:49:37 --> Found some client data to process.
+ERROR - 2015-07-03 15:51:45 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 15:51:46 --> Found some client data to process.
+ERROR - 2015-07-03 16:13:44 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 16:13:45 --> Found some client data to process.
+ERROR - 2015-07-03 16:15:31 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 16:15:33 --> Found some client data to process.
+ERROR - 2015-07-03 16:18:20 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 16:18:21 --> Sheet name should be longer than zero characters.
+DEBUG - 2015-07-03 16:18:21 --> non-date found.
+ERROR - 2015-07-03 16:18:21 --> Data type mismatch for UKROC1052 and DateTime
+ERROR - 2015-07-03 16:22:09 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 16:22:10 --> Sheet name should be longer than zero characters.
+DEBUG - 2015-07-03 16:22:10 --> non-date found.
+ERROR - 2015-07-03 16:22:10 --> Data type mismatch for UKROC1052 and DateTime
+ERROR - 2015-07-03 16:23:03 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 16:23:04 --> Sheet name should be longer than zero characters.
+DEBUG - 2015-07-03 16:23:04 --> non-date found.
+ERROR - 2015-07-03 16:23:04 --> Data type mismatch for UKROC1052 and DateTime
+ERROR - 2015-07-03 16:23:45 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 16:23:46 --> Sheet name should be longer than zero characters.
+DEBUG - 2015-07-03 16:23:46 --> non-date found.
+ERROR - 2015-07-03 16:23:46 --> Data type mismatch for UKROC1052 and DateTime
+ERROR - 2015-07-03 16:23:56 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 16:23:57 --> Sheet name should be longer than zero characters.
+DEBUG - 2015-07-03 16:23:58 --> non-date found.
+ERROR - 2015-07-03 16:23:58 --> Data type mismatch for UKROC1052 and DateTime
+ERROR - 2015-07-03 16:27:04 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 16:27:05 --> Sheet name should be longer than zero characters.
+DEBUG - 2015-07-03 16:27:05 --> non-date found.
+ERROR - 2015-07-03 16:27:05 --> Data type mismatch for UKROC1052 and DateTime
+ERROR - 2015-07-03 16:28:18 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 16:28:20 --> Sheet name should be longer than zero characters.
+DEBUG - 2015-07-03 16:28:20 --> non-date found.
+ERROR - 2015-07-03 16:28:20 --> Data type mismatch for UKROC1052 and DateTime
+ERROR - 2015-07-03 16:30:29 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 16:30:31 --> Sheet name should be longer than zero characters.
+DEBUG - 2015-07-03 16:30:31 --> non-date found.
+ERROR - 2015-07-03 16:30:31 --> Data type mismatch for 2015-06-08 13:58:07 and DateTime
+ERROR - 2015-07-03 16:36:39 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 16:36:41 --> Sheet name should be longer than zero characters.
+DEBUG - 2015-07-03 16:36:41 --> Found some client data to process.
+ERROR - 2015-07-03 16:43:51 --> Client data file /var/local/config/clients/tier1/test.ini does not contain enough entries
+DEBUG - 2015-07-03 16:43:52 --> Sheet name should be longer than zero characters.
+DEBUG - 2015-07-03 16:43:52 --> Found some client data to process.

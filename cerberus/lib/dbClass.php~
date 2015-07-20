@@ -1,0 +1,142 @@
+<?php 
+class dbClass {
+	private $conn;
+        public  $dbName;
+        private $dsn;
+        private $dbid;
+        private $stmt;
+        private $retVal;
+        private $errDesc;
+        private $logPath;
+
+	///
+	// __construct
+	//
+	// @param The database connection to try and open
+	// @param The error logging directory
+	// @param The config data
+	//
+	public function __construct($dbid, $path, $config = NULL)
+	{
+		if($config == NULL)
+		{
+			$config = parse_ini_file('../config/config.ini', TRUE);
+			if($config_data === false)
+			{
+				error_message("Failed to open config file.", "email",
+					'integration@inpost.co.uk');
+				die;
+			}
+		}
+
+		if (!isset($this->conn))
+		{
+			try{
+				$this->dbName  = $config[$dbid]['dbname'];
+				$this->logPath = $path;
+				$this->dsn     = $config[$dbid]['dbtype'].":host=".$config[$dbid]['dbhost'].";dbname=".$config[$dbid]['dbname']; 
+				$this->conn    = new PDO($this->dsn, $config[$dbid]['username'], $config[$dbid]['password']);
+
+				$this->conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+				$this->conn->setAttribute(PDO::ATTR_EMULATE_PREPARES,false);
+			}
+
+			catch(PDOException $e){
+				//log error
+				$this->errDesc= date("Y-m-d H:i:s")." - Object creation failed. Details: " .$e ."\n";
+				error_log($this->errDesc, 3, $this->logPath); 
+				//print_r($this->errDesc);
+				return FALSE; 
+			}
+
+			return $this->conn;
+		}
+	}
+
+	public function __destruct()
+	{
+		$this->conn = null;
+	}
+
+	public function query($query)
+	{
+		$this->stmt = $this->conn->prepare($query);
+                     
+		if (!($this->stmt))
+		{
+			$this->errDesc= date("Y-m-d H:i:s")." Failed to prepare query: " .$this->conn->errorInfo() ."\n";
+			//print_r($this->errDesc);
+			error_log($this->errDesc, 3, $this->logPath); 
+			return FALSE;
+		}
+
+		return TRUE;
+	}
+                
+                public function bind($param, $value, $type = null){
+                    
+                 if (is_null($type)){
+                    switch (true) {
+                        case is_int($value):
+                            $type = PDO::PARAM_INT;
+                            break;
+                        case is_bool($value):
+                            $type = PDO::PARAM_BOOL;
+                            break;
+                        case is_null($value):
+                            $type = PDO::PARAM_NULL;
+                            break;
+                        default:
+                            $type = PDO::PARAM_STR;
+                            
+                    }
+                    
+                    }
+                    $this->retVal=$this->stmt->bindValue($param, $value, $type);
+                    
+                    if(!$this->retVal){
+                        $this->errDesc= date("Y-m-d H:i:s")." - Failed to bind values: " .$this->conn->errorInfo() ."\n";
+                        //print_r($this->errDesc);
+                        error_log($this->errDesc, 3, $this->logPath);
+                        return FALSE;
+                    }                        
+                    //return TRUE;
+                    return $this->retVal;
+                }
+                
+                
+                public function execute(){
+               
+                    try{
+                    $retVal=$this->stmt->execute();
+                    }
+                    catch(exception $e)
+                    {
+                        echo "exception " . print_r($e) . "<br>";
+                    if(!$retVal){
+                        $this->errDesc= date("Y-m-d H:i:s")." Execution failure: " .$this->conn->errorInfo() ."\n";
+                        //print_r($this->errDesc);
+                        error_log($this->errDesc, 3, $this->logPath);
+                        return FALSE;
+                    }
+                    }
+                    return $retVal;
+                }
+                
+              
+                public function resultset(){
+                    $retVal=$this->execute();
+                    if(!$retVal){
+                        return FALSE;
+                    }
+                    return $this->stmt->fetchAll(); 
+                 
+                }
+                
+                public function rowCount(){
+                    //echo "in rowCount<br>";
+                    return $this->stmt->rowCount();
+                    
+                }
+   
+}
